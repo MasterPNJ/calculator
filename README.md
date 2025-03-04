@@ -1,6 +1,6 @@
 # calculator
 
-##Install all depndencies
+## Install all depndencies
 
 pip install -r requirements.txt
 
