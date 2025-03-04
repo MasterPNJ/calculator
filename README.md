@@ -1,5 +1,9 @@
 # calculator
 
+##Install all depndencies
+
+pip install -r requirements.txt
+
 ## Run calculator
 
 ### Sum
